@@ -1,4 +1,4 @@
-# Coding Bootcamp Assignment
+# Coding Bootcamp Assignment HTML & CSS
 
 ## Task Instructions
 Create a page using HTML & CSS as creative & good as possible. There is no theme provision.
